@@ -93,7 +93,6 @@ My research has resulted in **three peer-reviewed publications** and **one manus
 * **1st Place Worldwide** · BR4N.IO Hackathon × IEEE SMC 2025, Vienna (Data Analysis track, 69 teams, 50+ countries)
 * **2nd Place Nationwide** · EIT Health i-Days 2025 (HygeIA, AI-powered first-aid app with a Greek LLM)
 * **Top 4% Worldwide** · IEEEXtreme 13.0 (159th of 4,103 teams)
-* **NVIDIA Certified Professional** · Generative AI LLMs (NCP-GENL)
 
 ---
 
