@@ -1,5 +1,5 @@
 # Hi 👋 I am Dimitrios
-## Data Scientist 👨🏽‍💻 focusing on Bioinformatics 🧬
+## Senior Machine Learning Engineer 👨🏽‍💻 focusing on Bioinformatics 🧬
 
 💻 Coding since 2015, fascinated by the endless possibilities of the vast amount of biological data I decided to specialize my ML/DL skills in bioinformatics
 
