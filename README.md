@@ -81,7 +81,8 @@ My research has resulted in **three peer-reviewed publications** and **one manus
 ### Posters
 
 * **LLM-Powered Pipeline for Post-Call Analysis of Suicide Crisis Hotline Recordings**  
-  *34th Panhellenic Psychiatry Congress, Alexandroupoli, 2026*
+  *34th Panhellenic Psychiatry Congress, Alexandroupoli, 2026* · [Poster](https://www.linkedin.com/feed/update/urn:li:activity:7460003397711204352/)
+  
 
 * **Machine & Deep Learning for Parkinson's Disease Classification**  
   *6th HBP Student Conference on Interdisciplinary Brain Research, 2021* · [Poster](https://www.linkedin.com/in/dimitrios-georgiou/overlay/1635484219509/single-media-viewer/?profileId=ACoAAB9iLVIBxYpeomo-Y21fFLHo-YyxI_Rj_vk)
